@@ -1,0 +1,13 @@
+1. Executable "MailMergeFileParseer.exe" of software .exe can be found in folder: MailMergeFileParseer\MailMergeFileParseer\bin\Debug
+2. Sample excel and template found are attached in folder.
+3. please note that merge fields and excel headers should be same so that software could map the values.
+4. Fields with HTML in column name in excel is always considered as html containing column and is parsed as html so html should be valid.
+5. Document column is considered as file name.
+
+====================================================================================================
+
+Visual studio can be downloaded from here. Once you have downloaded and installed visual studio, you can open the .sln file to view code.
+https://visualstudio.microsoft.com/downloads/
+
+Step by step guide:
+https://www.guru99.com/download-install-visual-studio.html
